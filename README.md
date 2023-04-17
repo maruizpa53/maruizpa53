@@ -51,7 +51,7 @@
 ## 📫 How to reach me: ...
 
 <p align='left'>
-  <a href="https://wa.me//+573204525560" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socials/whatsapp.svg" width="32" height="32" /></a>
+  <a href="https://wa.me//+573204525560" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/maruipa53/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://discordapp.com/users/123948251308097536/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
