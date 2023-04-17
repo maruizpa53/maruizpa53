@@ -1,8 +1,11 @@
-<h2 align="left">👋 Hi! I'm Miguel Ruiz</h2>
+<h2 align="left">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Miguel Ruiz</h2>
 <h4 align="justify">I'm a Telecommunications & Systems engineer and a candidate for a Master's degree in Systems Engineering. who builds beautiful and simple software solutions </h4>
 
 ## 🔭 I’m currently working on ...
 <h4 align="justify">- 💼 I'm currently working with "GPC Computer Software Ltd. - an Uber Company" as a Head Of Operations & Business Consultancy. I am a senior software engineer with over 8 years of experience developing enterprise-level applications. As Head of Operations, I oversee a team of consultans and ensure that projects are delivered on time and within budget. During my tenure, I have successfully launched several high-profile projects in Latin America, resulting in increased revenue and customer satisfaction. With my deep understanding of software development lifecycles and project management methodologies, I am well-equipped to lead complex projects and manage teams effectively. </h4>
+
+<a href="https://www.github.com/maruizpa53" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
 
 ## 🔧 Skills
 > 😄 Languages, tools, and other things that I like to work with.
@@ -50,14 +53,26 @@
 
 ## 📫 How to reach me: ...
 
+* 🌍  I'm based in Bogotá, Colombia
+* ✉️  You can contact me at [maruizpa@outlook.com](mailto:maruizpa@outlook.com)
+* 🧠  I'm learning Flutter Development, Web Development & Lambda Functions AWS
+* 🤝  I'm open to collaborating on I'm open to collaborating on Web Projects, App Developments and DevOps Projects.
+
 <p align='left'>
   <a href="https://wa.me//+573204525560" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/maruipa53/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://discordapp.com/users/123948251308097536/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+  
 </p>
 
 <br>
 
 '![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53&show_icons=true&theme=dracula)
 
-<br>
+<a href="http://www.github.com/maruizpa53"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maruizpa53&stroke=ffffff&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/maruizpa53"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maruizpa53&bg_color=27272a&color=ffffff&line=22c55e&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/maruizpa53" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruizpa53&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+</br>
