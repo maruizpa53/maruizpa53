@@ -45,14 +45,14 @@
 
 <br>
 
-<a href="https://github.com/maruizpa53/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maruizpa53&repo=github-readme-stats" />
+<a href="https://github.com/CityBest-Latam-SpA/Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maruizpa53&repo=Backend" />
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53)](https://github.com/maruizpa53/github-readme-stats)
 
-<a href="https://github.com/maruizpa53/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maruizpa53&repo=convoychat" />
+<a href="https://github.com/CityBest-Latam-SpA/Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityBest-Latam-SpA&repo=Backend" />
 </a>
 
 <br>
