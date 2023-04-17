@@ -44,9 +44,12 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruipa53&layout=compact)](https://github.com/maruipa53/github-readme-stats)
-
-![maruipa53's github stats](https://github-readme-stats.vercel.app/api?username=maruipa53&show_icons=true&hide_border=true&title_color=D41C57&text_color=FFFFFF&icon_color=D41C57&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <br>
 
