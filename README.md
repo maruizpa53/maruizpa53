@@ -1,4 +1,4 @@
-<h2 align="left">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Miguel Ruiz</h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Miguel Ruiz
 <h4 align="justify">I'm a Telecommunications & Systems engineer and a candidate for a Master's degree in Systems Engineering. who builds beautiful and simple software solutions </h4>
 
 ## 🔭 I’m currently working on ...
