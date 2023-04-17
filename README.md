@@ -60,10 +60,10 @@ src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-th
   
 </p>
 
-* 🌍  I'm based in Bogotá, Colombia
-* ✉️  You can contact me at [maruizpa@outlook.com](mailto:maruizpa@outlook.com)
-* 🧠  I'm learning Flutter and React Native Development, Web Development & Lambda Functions AWS
-* 🤝  I'm open to collaborating on I'm open to collaborating on Web Projects, App Developments and DevOps Projects.
+> 🌍  I'm based in Bogotá, Colombia
+> ✉️  You can contact me at [maruizpa@outlook.com](mailto:maruizpa@outlook.com)
+> 🧠  I'm learning Flutter and React Native Development, Web Development & Lambda Functions AWS
+> 🤝  I'm open to collaborating on I'm open to collaborating on Web Projects, App Developments and DevOps Projects.
 
 <br>
 
