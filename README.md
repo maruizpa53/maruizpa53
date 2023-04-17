@@ -45,15 +45,9 @@
 
 <br>
 
-<a href="https://github.com/CityBest-Latam-SpA/Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maruizpa53&repo=Backend" />
-</a>
+[![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53)](https://github.com/maruizpa53/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53)](https://github.com/maruizpa53/github-readme-stats)
-
-<a href="https://github.com/CityBest-Latam-SpA/Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityBest-Latam-SpA&repo=Backend" />
-</a>
+'![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <br>
 
@@ -68,7 +62,6 @@
   <a href="https://discordapp.com/users/123948251308097536/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 <br/>
-
 ## 🌱 I’m currently learning ...
 
 <h3 align="left">Master's degree in Systems Engineering - Politecnico Grancolombiano</h3>
