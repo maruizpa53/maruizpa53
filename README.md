@@ -67,12 +67,12 @@ src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-th
 
 <br>
 
+<a href="https://github.com/maruizpa53" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruizpa53&langs_count=10&title_color=2d4ce3&text_color=ffffff&icon_color=2d4ce3&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 '![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53&show_icons=true&theme=transparent)
 
 <a href="http://www.github.com/maruizpa53"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maruizpa53&stroke=ffffff&background=27272a&ring=2d4ce3&fire=2d4ce3&currStreakNum=ffffff&currStreakLabel=2d4ce3&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/maruizpa53"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maruizpa53&bg_color=27272a&color=ffffff&line=2d4ce3&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/maruizpa53" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruizpa53&langs_count=10&title_color=2d4ce3&text_color=ffffff&icon_color=2d4ce3&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </br>
