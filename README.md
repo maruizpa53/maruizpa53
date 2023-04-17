@@ -1,11 +1,11 @@
-<h1 align="left">👋 Hi! I'm Miguel Ruiz</h1>
-<h3 align="left">I am a Telecommunications & Systems engineer and a candidate for a Master's degree in Systems Engineering. who builds beautiful and simple software solutions </h3>
+<h2 align="left">👋 Hi! I'm Miguel Ruiz</h2>
+<h4 align="justify">I am a Telecommunications & Systems engineer and a candidate for a Master's degree in Systems Engineering. who builds beautiful and simple software solutions </h4>
 
 ## 🔭 I’m currently working on ...
 <h4 align="justify">- 💼 I'm currently working with "GPC Computer Software Ltd. - an Uber Company" as a Head Of Operations & Business Consultancy. I am a senior software engineer with over 8 years of experience developing enterprise-level applications. As Head of Operations, I oversee a team of consultans and ensure that projects are delivered on time and within budget. During my tenure, I have successfully launched several high-profile projects in Latin America, resulting in increased revenue and customer satisfaction. With my deep understanding of software development lifecycles and project management methodologies, I am well-equipped to lead complex projects and manage teams effectively. </h4>
 
 ## 🔧 Skills
-> Languages, tools, and other things that I like to work with.
+> 😄 Languages, tools, and other things that I like to work with.
 
 ## Frontend 
 
