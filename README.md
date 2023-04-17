@@ -53,17 +53,17 @@ src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-th
 
 ## 📫 How to reach me: ...
 
-* 🌍  I'm based in Bogotá, Colombia
-* ✉️  You can contact me at [maruizpa@outlook.com](mailto:maruizpa@outlook.com)
-* 🧠  I'm learning Flutter and React Native Development, Web Development & Lambda Functions AWS
-* 🤝  I'm open to collaborating on I'm open to collaborating on Web Projects, App Developments and DevOps Projects.
-
 <p align='left'>
   
   <a href="https://www.linkedin.com/in/maruipa53/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://discordapp.com/users/123948251308097536/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   
 </p>
+
+* 🌍  I'm based in Bogotá, Colombia
+* ✉️  You can contact me at [maruizpa@outlook.com](mailto:maruizpa@outlook.com)
+* 🧠  I'm learning Flutter and React Native Development, Web Development & Lambda Functions AWS
+* 🤝  I'm open to collaborating on I'm open to collaborating on Web Projects, App Developments and DevOps Projects.
 
 <br>
 
