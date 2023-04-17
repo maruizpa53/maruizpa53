@@ -5,10 +5,9 @@
 - 💼 I'm currently working with "GPC Computer Software Ltd. - an Uber Company" as a Head Of Operations & Business Consultancy. I am a senior software engineer with over 8 years of experience developing enterprise-level applications. As Head of Operations, I oversee a team of consultans and ensure that projects are delivered on time and within budget. During my tenure, I have successfully launched several high-profile projects in Latin America, resulting in increased revenue and customer satisfaction. With my deep understanding of software development lifecycles and project management methodologies, I am well-equipped to lead complex projects and manage teams effectively.
 
 ## 🔧 Skills
-
 > Languages, tools, and other things that I like to work with.
 
-### Frontend 
+## Frontend 
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -23,7 +22,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Backend and Databases
+## Backend and Databases
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -35,7 +34,7 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-### Tools
+## ⚡ Tools
 
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32" /></a>
@@ -60,6 +59,7 @@
   <a href="https://discordapp.com/users/123948251308097536/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 <br/>
+
 ## 🌱 I’m currently learning ...
 
 <h3 align="left">Master's degree in Systems Engineering - Politecnico Grancolombiano</h3>
