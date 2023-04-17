@@ -5,7 +5,7 @@
 <h4 align="justify">- 💼 I'm currently working with "GPC Computer Software Ltd. - an Uber Company" as a Head Of Operations & Business Consultancy. I am a senior software engineer with over 8 years of experience developing enterprise-level applications. As Head of Operations, I oversee a team of consultans and ensure that projects are delivered on time and within budget. During my tenure, I have successfully launched several high-profile projects in Latin America, resulting in increased revenue and customer satisfaction. With my deep understanding of software development lifecycles and project management methodologies, I am well-equipped to lead complex projects and manage teams effectively. </h4>
 
 <a href="https://www.github.com/maruizpa53" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-the-badge&color=0b0fde&labelColor=27272a" /></a>
+src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-the-badge&color=2d4ce3&labelColor=27272a" /></a>
 
 ## 🔧 Skills
 > 😄 Languages, tools, and other things that I like to work with.
@@ -69,10 +69,10 @@ src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-th
 
 '![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53&show_icons=true&theme=transparent)
 
-<a href="http://www.github.com/maruizpa53"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maruizpa53&stroke=ffffff&background=27272a&ring=0b0fde&fire=0b0fde&currStreakNum=ffffff&currStreakLabel=0b0fde&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/maruizpa53"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maruizpa53&stroke=ffffff&background=27272a&ring=2d4ce3&fire=2d4ce3&currStreakNum=ffffff&currStreakLabel=2d4ce3&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/maruizpa53"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maruizpa53&bg_color=27272a&color=ffffff&line=0b0fde&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/maruizpa53"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=maruizpa53&bg_color=27272a&color=ffffff&line=2d4ce3&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/maruizpa53" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruizpa53&langs_count=10&title_color=0b0fde&text_color=ffffff&icon_color=0b0fde&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/maruizpa53" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruizpa53&langs_count=10&title_color=2d4ce3&text_color=ffffff&icon_color=2d4ce3&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </br>
