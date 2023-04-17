@@ -62,10 +62,14 @@ src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-th
 
 > 🌍  I'm based in Bogotá, Colombia
 <br>
-> ✉️  You can contact me at [maruizpa@outlook.com](mailto:maruizpa@outlook.com)
-> 🧠  I'm learning Flutter and React Native Development, Web Development & Lambda Functions AWS
-> 🤝  I'm open to collaborating on I'm open to collaborating on Web Projects, App Developments and DevOps Projects.
 
+> ✉️  You can contact me at [maruizpa@outlook.com](mailto:maruizpa@outlook.com)
+<br>
+
+> 🧠  I'm learning Flutter and React Native Development, Web Development & Lambda Functions AWS
+<br>
+
+> 🤝  I'm open to collaborating on I'm open to collaborating on Web Projects, App Developments and DevOps Projects.
 <br>
 
 <a href="https://github.com/maruizpa53" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruizpa53&langs_count=10&title_color=2d4ce3&text_color=ffffff&icon_color=2d4ce3&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
