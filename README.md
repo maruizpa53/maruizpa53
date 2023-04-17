@@ -1,6 +1,7 @@
 <h1 align="left">👋 Hi! I'm Miguel Ruiz</h1>
 <h3 align="left">I am a Telecommunications & Systems engineer and a candidate for a Master's degree in Systems Engineering. who builds beautiful and simple software solutions </h3>
 
+## 🔭 I’m currently working on ...
 - 💼 I'm currently working with "GPC Computer Software Ltd. - an Uber Company" as a Head Of Operations & Business Consultancy. I am a senior software engineer with over 8 years of experience developing enterprise-level applications. As Head of Operations, I oversee a team of consultans and ensure that projects are delivered on time and within budget. During my tenure, I have successfully launched several high-profile projects in Latin America, resulting in increased revenue and customer satisfaction. With my deep understanding of software development lifecycles and project management methodologies, I am well-equipped to lead complex projects and manage teams effectively.
 
 ## 🔧 Skills
@@ -44,11 +45,14 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/maruizpa53/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maruizpa53&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53)](https://github.com/maruizpa53/github-readme-stats)
+
+<a href="https://github.com/maruizpa53/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maruizpa53&repo=convoychat" />
 </a>
 
 <br>
@@ -63,7 +67,6 @@
   <a href="https://www.linkedin.com/in/maruipa53/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://discordapp.com/users/123948251308097536/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
-
 <br/>
 
 ## 🌱 I’m currently learning ...
