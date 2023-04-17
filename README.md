@@ -47,7 +47,7 @@
 
 [![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53)](https://github.com/maruizpa53/github-readme-stats)
 
-'![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+'![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53&show_icons=true&theme=dracula)
 
 <br>
 
