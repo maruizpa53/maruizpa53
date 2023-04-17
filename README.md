@@ -55,11 +55,11 @@ src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-th
 
 * 🌍  I'm based in Bogotá, Colombia
 * ✉️  You can contact me at [maruizpa@outlook.com](mailto:maruizpa@outlook.com)
-* 🧠  I'm learning Flutter Development, Web Development & Lambda Functions AWS
+* 🧠  I'm learning Flutter and React Native Development, Web Development & Lambda Functions AWS
 * 🤝  I'm open to collaborating on I'm open to collaborating on Web Projects, App Developments and DevOps Projects.
 
 <p align='left'>
-  <a href="https://wa.me//+573204525560" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="32" height="32" /></a>
+  
   <a href="https://www.linkedin.com/in/maruipa53/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://discordapp.com/users/123948251308097536/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   
@@ -67,7 +67,7 @@ src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-th
 
 <br>
 
-'![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53&show_icons=true&theme=dracula)
+'![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53&show_icons=true&theme=transparent)
 
 <a href="http://www.github.com/maruizpa53"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maruizpa53&stroke=ffffff&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
