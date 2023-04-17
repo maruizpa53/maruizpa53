@@ -44,7 +44,7 @@
 
 <br>
 
-![maruipa53's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruipa53&layout=compact&title_color=D41C57&text_color=FFFFFF&theme=dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruipa53&layout=compact)](https://github.com/maruipa53/github-readme-stats)
 
 ![maruipa53's github stats](https://github-readme-stats.vercel.app/api?username=maruipa53&show_icons=true&hide_border=true&title_color=D41C57&text_color=FFFFFF&icon_color=D41C57&theme=dark)
 
