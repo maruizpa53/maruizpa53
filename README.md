@@ -8,7 +8,7 @@
 src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-the-badge&color=2d4ce3&labelColor=27272a" /></a>
 
 ## 🔧 Skills
-> 😄 Languages, tools, and other things that I like to work with.
+* 😄 Languages, tools, and other things that I like to work with.
 
 ## Frontend 
 
@@ -38,10 +38,10 @@ src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-th
 </p>
 
 ## 💬 Ask me about ...
-> Web Development, DevOps, Asterisk, Apps & Back-end tools.
+* Web Development, DevOps, Asterisk, Apps & Back-end tools.
 
 ## 🌱 I’m currently learning ...
-> Master's degree in Systems Engineering - Politecnico Grancolombiano
+* Master's degree in Systems Engineering - Politecnico Grancolombiano
 
 ## ⚡ Tools
 
@@ -55,15 +55,15 @@ src="https://img.shields.io/github/followers/maruizpa53?logo=github&style=for-th
 
 <p align='left'>
   
-  <a href="https://www.linkedin.com/in/maruipa53/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/miguel-angel-ruiz-patarroyo-1a2a84143/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://discordapp.com/users/123948251308097536/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   
 </p>
 
-* 🌍  I'm based in Bogotá, Colombia
-* ✉️  You can contact me at [maruizpa@outlook.com](mailto:maruizpa@outlook.com)
-* 🧠  I'm learning Flutter and React Native Development, Web Development & Lambda Functions AWS
-* 🤝  I'm open to collaborating on I'm open to collaborating on Web Projects, App Developments and DevOps Projects.
+* 🌍 I'm based in Bogotá, Colombia
+* ✉️ You can contact me at [maruizpa@outlook.com](mailto:maruizpa@outlook.com)
+* 🧠 I'm learning Flutter and React Native Development, Web Development & Lambda Functions AWS
+* 🤝 I'm open to collaborating on I'm open to collaborating on Web Projects, App Developments and DevOps Projects.
 
 <br>
 
