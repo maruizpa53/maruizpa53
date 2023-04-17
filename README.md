@@ -34,6 +34,13 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
+## 💬 Ask me about ...
+
+> Web Development, DevOps, Asterisk, Apps & Back-end tools.
+
+## 🌱 I’m currently learning ...
+<h3 align="left">Master's degree in Systems Engineering - Politecnico Grancolombiano</h3>
+
 ## ⚡ Tools
 
 <p align="left">
@@ -42,16 +49,6 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" /></a>
 </p>
 
-<br>
-
-'![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53&show_icons=true&theme=dracula)
-
-<br>
-
-## 💬 Ask me about ...
-
-> Web Development, DevOps, Asterisk, Apps & Back-end tools.
-
 ## 📫 How to reach me: ...
 
 <p align='left'>
@@ -59,8 +56,11 @@
   <a href="https://discordapp.com/users/123948251308097536/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 
-## 🌱 I’m currently learning ...
-<h3 align="left">Master's degree in Systems Engineering - Politecnico Grancolombiano</h3>
+<br>
+
+'![maruizpa53's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruizpa53&show_icons=true&theme=dracula)
+
+<br>
 
 <!--
 **maruizpa53/maruizpa53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
